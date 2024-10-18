@@ -1,3 +1,5 @@
 file4 added
 
 how to manage conflict?
+
+make the history longer
