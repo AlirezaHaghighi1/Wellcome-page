@@ -7,5 +7,6 @@
     "statusBarItem.remoteBackground": "#7a747a",
     "statusBarItem.remoteForeground": "#e7e7e7"
   },
-  "peacock.color": "#7a747a"
+  "peacock.color": "#7a747a",
+  "liveServer.settings.port": 5503
 }
