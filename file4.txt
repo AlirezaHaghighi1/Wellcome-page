@@ -11,3 +11,6 @@ i havea a plan
 will op stash happen?
 
 it might happen
+
+make it responsive
+responsive it twice
